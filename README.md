@@ -1,2 +1,2 @@
-Making my first file on git.
-Just adding some text..
+Editing my first file on git.
+Now just making some changes.
